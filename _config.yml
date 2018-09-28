@@ -1,0 +1,20 @@
+
+markdown: kramdown
+highligter: null
+permalink: /:title
+
+url:
+baseurl: ""
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed
+
+github_username:    tomoyatakano
+googlescholar_username:	a0Boi-0AAAAJ
+researchgate_username:	Tomoya_Takano
+orcid_username: 0000-0002-0178-9707
+email_username: tomoya.takano.p6@dc.tohoku.ac.jp
