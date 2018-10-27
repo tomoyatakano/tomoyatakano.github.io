@@ -4,9 +4,9 @@ title: About
 ---
 My name is Tomoya Takano, currently PhD student at the [Tohoku University](http://www.zisin.geophys.tohoku.ac.jp/){:target="_blank"}, Japan.
 
-My research focus on understanding dynamic processes of the Earth's structure by analyzing the seismic data. I am particularly interested in temporal changes of elastic properties in the crust, i.e. how does the crust respond to external forces at different time scale (earthquakes, volcano deformations by magma pressure, tides, rainfall, and so on)?  What is the relation between elastic properties, seismic velocity changes, and observed deformation patterns? 
+My research focus on understanding dynamic processes of the Earth's structure by analyzing the seismic data. I am particularly interested in temporal changes of elastic properties in the crust, i.e., how does the crust respond to stress perturbations (earthquakes, volcano deformations by magma pressure, tides, rainfall, and so on)?  
 
-My study about seismic velocity changes related with quiet volcanic activities can be found in the [EOS Spotlight](https://eos.org/research-spotlights/quiet-volcanic-activity-changes-speed-of-ambient-seismic-waves){:target="_blank"}.
+My study about seismic velocity changes related with volcanic activities can be found in the [EOS Spotlight](https://eos.org/research-spotlights/quiet-volcanic-activity-changes-speed-of-ambient-seismic-waves){:target="_blank"}.
 
 <div class="social-media-list-wrapper">
 <ul class="social-media-list">
