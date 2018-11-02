@@ -6,14 +6,40 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <description>Academic website of Tomoya Takano, PhD student at Tohoku University, Japan</description>
     <language>en-us</language>
-    <pubDate>Sat, 29 Sep 2018 10:08:32 +0200</pubDate>
-    <lastBuildDate>Sat, 29 Sep 2018 10:08:32 +0200</lastBuildDate>
+    <pubDate>Sun, 28 Oct 2018 15:17:01 +0900</pubDate>
+    <lastBuildDate>Sun, 28 Oct 2018 15:17:01 +0900</lastBuildDate>
 
+    
+      <item>
+        <title>EGU・Seismic velocity changes in response to different direction of tidal strain</title>
+        <link>http://localhost:4000/egu2018</link>
+        <pubDate>Sun, 08 Apr 2018 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;During the EGU General Assembly 2018, I presented a work on characteristics of strain sensitivity of seismic velocity changes.&lt;/p&gt;
+
+&lt;p&gt;In particular I talked about the seismic velocity changes in response to different direction of tidal strain by using ambient noise recorded at active volcanoes in Japan.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meetingorganizer.copernicus.org/EGU2018/EGU2018-12501.pdf&quot; target=&quot;_blank&quot;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>AGU・Seismic velocity changes in response to different direction of tidal strain</title>
+        <link>http://localhost:4000/agu2017</link>
+        <pubDate>Mon, 11 Dec 2017 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;During the AGU Fall Meeting 2017, I presented a work on characteristics of strain sensitivity of seismic velocity changes.&lt;/p&gt;
+
+&lt;p&gt;I talked about the seismic velocity changes in response to tidal strains at different lapse-times. In the presentation, I discussed the observed velocity changes with the wave properties of Green’s function by applying an array analysis to cross-correlation functions of ambient noise.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/270586&quot; target=&quot;_blank&quot;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
     
       <item>
         <title>Depth dependence of dv/v related with volcano deformation</title>
         <link>http://localhost:4000/dvv-izuoshima</link>
-        <pubDate>Thu, 17 Aug 2017 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 17 Aug 2017 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;blockquote&gt;
   &lt;p&gt;Takano, T., T. Nishimura, and H. Nakahara (2017), Seismic velocity changes concentrated at the shallow structure as inferred from correlation analyses of ambient noise during volcano deformation at Izu‐Oshima, Japan, J. Geophys. Res. Solid Earth, 122, 6721–6736, doi: 10.1002/2017JB014340. &lt;a href=&quot;/papers/Takano+2017.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
@@ -26,7 +52,7 @@
       <item>
         <title>Velocity changes related with the Earth tide</title>
         <link>http://localhost:4000/dvv-tide</link>
-        <pubDate>Mon, 04 Aug 2014 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 04 Aug 2014 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;blockquote&gt;
   &lt;p&gt;Takano, T., T. Nishimura, H. Nakahara, Y. Ohta, and S. Tanaka (2014), Seismic velocity changes caused by the Earth tide: Ambient noise correlation analyses of small‐array data, Geophys. Res. Lett., 41, 6131–6136, doi: 10.1002/2014GL060690. &lt;a href=&quot;/papers/Takano+2014.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
