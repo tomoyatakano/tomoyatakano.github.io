@@ -4,5 +4,8 @@
 - url: /about
   title: About
 
+- url: /publication
+  title: Publication
+
 - url: /cv_tkn.pdf
   title: CV
