@@ -2,7 +2,7 @@
 layout: page
 title: About Tomoya Takano
 ---
-I am Ph.D. student at the department of Geophysics in [Tohoku University](http://www.zisin.geophys.tohoku.ac.jp/){:target="_blank"} in Japan. My research focuses on understanding dynamic processes of the Earth's structure based on analysis of seismic data. 
+In March 2019, I finished my PhD in Geophysics at [Tohoku University](http://www.zisin.geophys.tohoku.ac.jp/){:target="_blank"} (Japan) under the supervision of Takeshi Nishimura. My research focuses on understanding dynamic processes of the Earth's structure based on analysis of seismic data. 
 
 I'm particularly interested how the crust responds to stress perturbations (e.g. earthquakes, volcano activities, tides, rainfall). 
 
