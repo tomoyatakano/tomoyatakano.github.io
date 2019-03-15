@@ -2,9 +2,9 @@
 layout: page
 title: About Tomoya Takano
 ---
-In March 2019, I finished my PhD in Geophysics at [Tohoku University](http://www.zisin.geophys.tohoku.ac.jp/){:target="_blank"} (Japan) under the supervision of Takeshi Nishimura. My research focuses on understanding dynamic processes of the Earth's structure based on analysis of seismic data. 
+In March 2019, I finished my PhD in Geophysics at [Tohoku University](http://www.zisin.geophys.tohoku.ac.jp/){:target="_blank"} (Japan). My research focuses on understanding dynamic processes of the Earth's structure based on analysis of seismic data. 
 
-I'm particularly interested how the crust responds to stress perturbations (e.g. earthquakes, volcano activities, tides, rainfall). 
+I'm particularly interested how the crust responds to stress perturbations (e.g. earthquakes, volcano activities, tides). 
 
 My study about seismic velocity changes related to volcanic deformation can be found in the [EOS Spotlight](https://eos.org/research-spotlights/quiet-volcanic-activity-changes-speed-of-ambient-seismic-waves){:target="_blank"}.
 
