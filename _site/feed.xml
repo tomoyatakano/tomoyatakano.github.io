@@ -6,14 +6,14 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <description>Academic website of Tomoya Takano, PhD student at Tohoku University, Japan</description>
     <language>en-us</language>
-    <pubDate>Fri, 15 Mar 2019 12:13:58 +0100</pubDate>
-    <lastBuildDate>Fri, 15 Mar 2019 12:13:58 +0100</lastBuildDate>
+    <pubDate>Sun, 24 Mar 2019 20:51:38 +0900</pubDate>
+    <lastBuildDate>Sun, 24 Mar 2019 20:51:38 +0900</lastBuildDate>
 
     
       <item>
         <title>Lapse-time dependence of dv/v in response to tides</title>
         <link>http://localhost:4000/array-izuoshima</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;blockquote&gt;
   &lt;p&gt;Takano, T., T. Nishimura, H. Nakahara, E. Fujita, and H. Ueda (2019), Sensitivity of seismic velocity changes to the tidal strain at different lapse-times: Data analyses of a small seismic array at Izu-Oshima volcano, J. Geophys. Res. Solid Earth, accepted.&lt;/p&gt;
@@ -24,21 +24,9 @@
       </item>
     
       <item>
-        <title>A moth simulating dead leaves</title>
-        <link>http://localhost:4000/moth</link>
-        <pubDate>Sat, 20 Oct 2018 00:00:00 +0200</pubDate>
-        <author>Tomoya Takano</author>
-        <description>&lt;p&gt;I found a moth simulating dead leaves in front of my appartment in Japan!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/photo/Moth1.jpg&quot; target=&quot;_blank&quot;&gt;Photo1&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;/photo/Moth2.jpg&quot; target=&quot;_blank&quot;&gt;Photo2&lt;/a&gt;&lt;/p&gt;
-</description>
-      </item>
-    
-      <item>
         <title>EGU・dv/v in response to different direction of tidal strain</title>
         <link>http://localhost:4000/egu2018</link>
-        <pubDate>Sun, 08 Apr 2018 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 08 Apr 2018 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;p&gt;During the EGU General Assembly 2018, I presented a work on characteristics of strain sensitivity of seismic velocity changes.&lt;/p&gt;
 
@@ -51,7 +39,7 @@
       <item>
         <title>Visiting ISTerre (Grenoble University)</title>
         <link>http://localhost:4000/grenoble</link>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 Apr 2018 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;p&gt;I stayed at ISTerre in Grenoble university from 2018/4/1-2018/10/3. I worked on velocity changes of ballistic waves by using Large N arrays on Piton de la Fournaise with Prof. Florent Brenguier and Prof. Michel Campillo.&lt;/p&gt;
 
@@ -61,7 +49,7 @@
       <item>
         <title>AGU・dvv/v caused by the tidal strain at Izu-Oshima</title>
         <link>http://localhost:4000/agu2017</link>
-        <pubDate>Mon, 11 Dec 2017 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 11 Dec 2017 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;p&gt;During the AGU Fall Meeting 2017, I presented a work on characteristics of strain sensitivity of seismic velocity changes.&lt;/p&gt;
 
@@ -74,7 +62,7 @@
       <item>
         <title>SSJ・dvv/v caused by the tidal strain at Izu-Oshima</title>
         <link>http://localhost:4000/ssj2017</link>
-        <pubDate>Wed, 25 Oct 2017 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 25 Oct 2017 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;p&gt;During the SSJ Meeting 2017 in Kagoshima, I presented a work on characteristics of strain sensitivity of seismic velocity changes.&lt;/p&gt;
 </description>
@@ -83,7 +71,7 @@
       <item>
         <title>VSJ・velocity changes caused by tidal strain using a small array.</title>
         <link>http://localhost:4000/vsj</link>
-        <pubDate>Thu, 21 Sep 2017 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 21 Sep 2017 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;p&gt;During the VSJ Meeting 2017 in Kumamoto, I presented a work on characteristics of strain sensitivity of seismic velocity changes.&lt;/p&gt;
 </description>
@@ -92,7 +80,7 @@
       <item>
         <title>Depth dependence of dv/v related with volcano deformation</title>
         <link>http://localhost:4000/dvv-izuoshima</link>
-        <pubDate>Thu, 17 Aug 2017 00:00:00 +0200</pubDate>
+        <pubDate>Thu, 17 Aug 2017 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;blockquote&gt;
   &lt;p&gt;Takano, T., T. Nishimura, and H. Nakahara (2017), Seismic velocity changes concentrated at the shallow structure as inferred from correlation analyses of ambient noise during volcano deformation at Izu‐Oshima, Japan, J. Geophys. Res. Solid Earth, 122, 6721-6736, doi: 10.1002/2017JB014340. &lt;a href=&quot;/papers/Takano+2017.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
@@ -105,7 +93,7 @@
       <item>
         <title>IASPEI・depth dependence of dv/v</title>
         <link>http://localhost:4000/iaspei2017</link>
-        <pubDate>Sun, 30 Jul 2017 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 30 Jul 2017 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;p&gt;During the IASPEI Meeting 2017 in Kobe, I presented a work on depth dependent characteristics of stress sensitivity of velocity changes.&lt;/p&gt;
 
@@ -115,7 +103,7 @@
       <item>
         <title>Velocity changes related with the Earth tide</title>
         <link>http://localhost:4000/dvv-tide</link>
-        <pubDate>Mon, 04 Aug 2014 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 04 Aug 2014 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;blockquote&gt;
   &lt;p&gt;Takano, T., T. Nishimura, H. Nakahara, Y. Ohta, and S. Tanaka (2014), Seismic velocity changes caused by the Earth tide: Ambient noise correlation analyses of small‐array data, Geophys. Res. Lett., 41, 6131-6136, doi: 10.1002/2014GL060690. &lt;a href=&quot;/papers/Takano+2014.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
