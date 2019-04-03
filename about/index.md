@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Tomoya Takano
+title: About Tomoya Takano（高野智也）
 ---
 In March 2019, I finished my PhD in Geophysics at [Tohoku University](http://www.zisin.geophys.tohoku.ac.jp/){:target="_blank"} (Japan). My research focuses on understanding dynamic processes of the Earth's structure based on analysis of seismic data. 
 
