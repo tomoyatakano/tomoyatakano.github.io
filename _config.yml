@@ -9,7 +9,7 @@ baseurl: ""
 redcarpet:
   extensions: [strikethrough, tables]
 
-gems:
+plugins:
   - jekyll-seo-tag
 
 sass:
