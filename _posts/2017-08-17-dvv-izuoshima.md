@@ -2,6 +2,7 @@
 layout: post
 title: Depth dependence of dv/v related with volcano deformation
 type: article
+description: Depth dependence of velocity changes caused by static stress changes. （地震波速度変化の応力感度の深さ依存性）
 ---
 
 >Takano, T., T. Nishimura, and H. Nakahara (2017), Seismic velocity changes concentrated at the shallow structure as inferred from correlation analyses of ambient noise during volcano deformation at Izu‐Oshima, Japan, J. Geophys. Res. Solid Earth, 122, 6721-6736, doi: 10.1002/2017JB014340. [[PDF]](/papers/Takano+2017.pdf)
