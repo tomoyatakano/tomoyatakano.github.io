@@ -9,9 +9,8 @@ baseurl: ""
 redcarpet:
   extensions: [strikethrough, tables]
 
-plugins:
+gems:
   - jekyll-seo-tag
-  - jekyll-sitemap
 
 sass:
   sass_dir: public/css
