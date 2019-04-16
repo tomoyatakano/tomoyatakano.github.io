@@ -4,11 +4,20 @@
     <title>Brume</title>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <description>Academic website of Tomoya Takano, PhD student at Tohoku University, Japan</description>
+    <description>Academic website of Tomoya Takano（高野智也）</description>
     <language>en-us</language>
-    <pubDate>Sun, 24 Mar 2019 20:51:38 +0900</pubDate>
-    <lastBuildDate>Sun, 24 Mar 2019 20:51:38 +0900</lastBuildDate>
+    <pubDate>Fri, 05 Apr 2019 23:14:19 +0900</pubDate>
+    <lastBuildDate>Fri, 05 Apr 2019 23:14:19 +0900</lastBuildDate>
 
+    
+      <item>
+        <title>Move to ERI, the University of Tokyo</title>
+        <link>http://localhost:4000/graduation</link>
+        <pubDate>Mon, 01 Apr 2019 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;I finished my PhD in Geophysics at Tohoku University and moved to ERI (University of Tokyo) from April 2019 as a Research Fellow.&lt;/p&gt;
+</description>
+      </item>
     
       <item>
         <title>Lapse-time dependence of dv/v in response to tides</title>
@@ -16,7 +25,7 @@
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;Takano, T., T. Nishimura, H. Nakahara, E. Fujita, and H. Ueda (2019), Sensitivity of seismic velocity changes to the tidal strain at different lapse-times: Data analyses of a small seismic array at Izu-Oshima volcano, J. Geophys. Res. Solid Earth, accepted.&lt;/p&gt;
+  &lt;p&gt;Takano, T., T. Nishimura, H. Nakahara, E. Fujita, and H. Ueda (2019), Sensitivity of seismic velocity changes to the tidal strain at different lapse-times: Data analyses of a small seismic array at Izu-Oshima volcano, J. Geophys. Res. Solid Earth, 124, https://doi.org/10.1029/2018JB016235. &lt;a href=&quot;/papers/Takano+2019.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;We investigate seismic velocity changes in response to the tidal strain at Izu-Oshima volcano, Japan, by analyzing the data of permanent seismic stations and a small seismic array to evaluate the characteristics of strain sensitivity of velocity changes. We estimate the seismic velocity changes by phase differences between cross-correlations functions of ambient noises at the frequency of 2-4 Hz stacked for time periods with different tidal strain amplitudes. The seismic velocity changes decrease and increase during dilatation and contraction periods, respectively, when analyzing the cross-correlations functions at early lapse-times ranging from 2 to 7 s. However, we find that strain sensitivity of the seismic velocity changes decreases when analyzing the cross-correlation functions at later lapse-times from 7 to 35 s. Applying an array analysis to the cross-correlation functions, we observe apparent velocities of about 1 km/s at the early lapse-times and those of higher than 1 km/s at the late lapse-times. Since the group velocity of Rayleigh waves is 1.1 km/s at Izu-Oshima volcano, the apparent velocities at the late lapse-times may indicate the scattered or reflected body waves incident from a deeper region. Decrease of strain sensitivity with the lapse times therefore results from the emergence of body waves on the late lapse-times. These results highlight the need to pay attention to wave types of cross correlation functions and their paths to interpret seismic velocity changes.&lt;/p&gt;
@@ -37,7 +46,7 @@
       </item>
     
       <item>
-        <title>Visiting ISTerre (Grenoble University)</title>
+        <title>Visiting student at ISTerre (Grenoble University)</title>
         <link>http://localhost:4000/grenoble</link>
         <pubDate>Sun, 01 Apr 2018 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>

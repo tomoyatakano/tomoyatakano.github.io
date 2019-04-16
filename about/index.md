@@ -3,9 +3,9 @@ layout: page
 title: About Tomoya Takano
 description: about Tomoya Takano（高野智也, Geophysics, Seismology, Volcanology)
 ---
-In March 2019, I finished my PhD in Geophysics at [Tohoku University](http://www.zisin.geophys.tohoku.ac.jp/){:target="_blank"} (Japan). My research focuses on understanding dynamic processes of the Earth's structure based on analysis of seismic data. 
+In March 2019, I finished my Ph.D. in Geophysics at Tohoku University (Japan). My research focuses on understanding the dynamic processes of the Earth’s structure based on the analysis of seismic data.
 
-I'm particularly interested how the crust responds to stress perturbations (e.g. earthquakes, volcano activities, tides). 
+I’m particularly interested in how the crust responds to stress perturbations (e.g. earthquakes, volcano activities, tides).
 
 My study about seismic velocity changes related to volcanic deformation can be found in the [EOS Spotlight](https://eos.org/research-spotlights/quiet-volcanic-activity-changes-speed-of-ambient-seismic-waves){:target="_blank"}.
 
