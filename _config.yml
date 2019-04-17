@@ -11,7 +11,7 @@ redcarpet:
 
 plugins:
   - jekyll-seo-tag
-
+  - jekyll-sitemap	
 sass:
   sass_dir: public/css
   style: :compressed
