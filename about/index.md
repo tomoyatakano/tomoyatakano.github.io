@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Tomoya Takano
+title: About Tomoya Takano (高野智也)
 description: about Tomoya Takano（高野智也, Geophysics, Seismology, Volcanology)
 ---
 In March 2019, I finished my Ph.D. in Geophysics at Tohoku University (Japan). My research focuses on understanding the dynamic processes of the Earth’s structure based on the analysis of seismic data.
