@@ -6,9 +6,19 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <description>Academic website of Tomoya Takano（高野智也）</description>
     <language>en-us</language>
-    <pubDate>Tue, 28 Feb 2023 23:20:49 +0900</pubDate>
-    <lastBuildDate>Tue, 28 Feb 2023 23:20:49 +0900</lastBuildDate>
+    <pubDate>Wed, 01 Mar 2023 08:45:34 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Mar 2023 08:45:34 +0900</lastBuildDate>
 
+    
+      <item>
+        <title>New grant starts</title>
+        <link>http://localhost:4000/new_grants</link>
+        <pubDate>Fri, 01 Apr 2022 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;The JSPS funds the 3 years &lt;a href=&quot;https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22K14110/&quot; target=&quot;_blank&quot;&gt;project&lt;/a&gt; on the passive noise based high temporal monitoring of the fluid pressure changes.&lt;/p&gt;
+
+</description>
+      </item>
     
       <item>
         <title>Move to Hirosaki University</title>
@@ -104,19 +114,6 @@
         <pubDate>Thu, 21 Sep 2017 00:00:00 +0900</pubDate>
         <author>Tomoya Takano</author>
         <description>&lt;p&gt;During the VSJ Meeting 2017 in Kumamoto, I presented a work on characteristics of strain sensitivity of seismic velocity changes.&lt;/p&gt;
-</description>
-      </item>
-    
-      <item>
-        <title>Depth dependence of dv/v related with volcano deformation</title>
-        <link>http://localhost:4000/dvv-izuoshima</link>
-        <pubDate>Thu, 17 Aug 2017 00:00:00 +0900</pubDate>
-        <author>Tomoya Takano</author>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Takano, T., T. Nishimura, and H. Nakahara (2017), Seismic velocity changes concentrated at the shallow structure as inferred from correlation analyses of ambient noise during volcano deformation at Izu‐Oshima, Japan, J. Geophys. Res. Solid Earth, 122, 6721-6736, doi: 10.1002/2017JB014340. &lt;a href=&quot;/papers/Takano+2017.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We investigate the depth dependent characteristics of stress sensitivity of velocity changes at Izu‐Oshima in Japan by noise correlations. We calculate cross correlation functions of ambient noises recorded by four seismic stations on the active volcano for four years at different frequency bands. The daily velocity changes vary from −1% to 3% with a dominant period of about 1 year. It is evident that the velocity changes are well correlated with the areal strain changes whose linear trend is removed. The stress sensitivity of velocity changes, which are obtained from the observed velocity changes and areal strains, is lower at 0.5-1 Hz than that at higher frequencies. Modeling the velocity changes of Rayleigh wave propagating in layered structures, we find that the observed velocity changes are concentrated in the upper 1 km of the structure. Since similar frequency dependency is recognized among the stress sensitivity of velocity changes reported in previous studies, we conclude that the velocity changes are localized in the shallow depth because of the increase of confining pressure.&lt;/p&gt;
 </description>
       </item>
     
