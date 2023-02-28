@@ -4,8 +4,7 @@ title: Tomoya Takano (髙野 智也)
 description: about Tomoya Takano（髙野智也, Geophysics, Seismology, Volcanology)
 ---
 
-Assistant Professor, Graduate School of Science and Technology, Hirosaki University  
-
+Assistant Professor, Graduate School of Science and Technology, Hirosaki University   
 takanot@hirosaki-u.ac.jp
 
 ###  Research interests
