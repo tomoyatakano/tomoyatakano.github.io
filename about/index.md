@@ -6,6 +6,8 @@ description: about Tomoya Takano（髙野智也, Geophysics, Seismology, Volcano
 
 Assistant Professor, Graduate School of Science and Technology, Hirosaki University  
 
+takanot@hirosaki-u.ac.jp
+
 ###  Research interests
 My research focuses on understanding the spatiotemporal changes of the Earth's structure using seismic waves. I'm particularly interested in a complex response of geomaterials to hydrological changes, volcanic activities, earthquake shaking, and static stress or strain variations. I have been involved in extracting the crustal response to applied static strain using ambient seismic noise and earth tides. 
 
