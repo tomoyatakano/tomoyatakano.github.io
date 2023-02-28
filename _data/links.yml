@@ -1,0 +1,14 @@
+- url: /
+  title: Home
+
+- url: /about
+  title: About
+
+- url: /publication
+  title: Publication
+
+- url: /lecture
+  title: Lecture
+
+- url: /cv_tkn.pdf
+  title: CV

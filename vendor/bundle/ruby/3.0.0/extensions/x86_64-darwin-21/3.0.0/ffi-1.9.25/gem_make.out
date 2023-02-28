@@ -1,0 +1,28 @@
+current directory: /Users/tomoya/Dropbox/misc/tomoyatakano.github.io/vendor/bundle/ruby/3.0.0/gems/ffi-1.9.25/ext/ffi_c
+/Users/tomoya/.rbenv/versions/3.0.0/bin/ruby -I /Users/tomoya/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20230225-89625-bmv775.rb extconf.rb
+checking for ffi_call() in -lffi... yes
+checking for ffi_closure_alloc()... yes
+checking for ffi_raw_call()... yes
+checking for ffi_prep_raw_closure()... yes
+checking for shlwapi.h... no
+checking for ruby/thread.h... yes
+checking for rb_thread_blocking_region()... no
+checking for rb_thread_call_with_gvl()... yes
+checking for rb_thread_call_without_gvl()... yes
+checking for ffi_prep_cif_var()... yes
+creating extconf.h
+creating Makefile
+
+current directory: /Users/tomoya/Dropbox/misc/tomoyatakano.github.io/vendor/bundle/ruby/3.0.0/gems/ffi-1.9.25/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /Users/tomoya/Dropbox/misc/tomoyatakano.github.io/vendor/bundle/ruby/3.0.0/gems/ffi-1.9.25/ext/ffi_c
+make "DESTDIR="
+compiling AbstractMemory.c
+AbstractMemory.c:586:9: error: implicit declaration of function 'rb_safe_level' is invalid in C99 [-Werror,-Wimplicit-function-declaration]
+    if (rb_safe_level() >= 1 && OBJ_TAINTED(str)) {
+        ^
+1 error generated.
+make: *** [AbstractMemory.o] Error 1
+
+make failed, exit code 2

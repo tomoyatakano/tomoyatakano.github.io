@@ -1,0 +1,16 @@
+current directory: /Users/tomoya/Dropbox/misc/tomoyatakano.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/tomoya/.rbenv/versions/2.7.7/bin/ruby -I /Users/tomoya/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20230225-634-augpr2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tomoya/Dropbox/misc/tomoyatakano.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/tomoya/Dropbox/misc/tomoyatakano.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/tomoya/Dropbox/misc/tomoyatakano.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/Users/tomoya/homebrew/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20230225-634-1x9w126

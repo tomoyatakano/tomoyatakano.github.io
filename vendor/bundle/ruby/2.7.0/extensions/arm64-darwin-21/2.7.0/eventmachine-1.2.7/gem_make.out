@@ -1,0 +1,16 @@
+current directory: /Users/tomoya/Dropbox/misc/tomoyatakano.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/tomoya/.rbenv/versions/2.7.7/bin/ruby -I /Users/tomoya/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20230225-634-1uqijtz.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tomoya/Dropbox/misc/tomoyatakano.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/tomoya/Dropbox/misc/tomoyatakano.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/tomoya/Dropbox/misc/tomoyatakano.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/Users/tomoya/homebrew/bin/ginstall -c -m 0755 fastfilereaderext.bundle ./.gem.20230225-634-ihv415

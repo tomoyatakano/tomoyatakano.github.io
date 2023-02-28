@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brume</title>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Academic website of Tomoya Takano（高野智也）</description>
+    <language>en-us</language>
+    <pubDate>Tue, 28 Feb 2023 17:42:05 +0900</pubDate>
+    <lastBuildDate>Tue, 28 Feb 2023 17:42:05 +0900</lastBuildDate>
+
+    
+      <item>
+        <title>Move to Hirosaki University</title>
+        <link>http://localhost:4000/move_to_hirosaki</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;I moved to Hiorsaki University (Graduate School of Science and Technology) as an assistant professor.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Move to ERI, the University of Tokyo</title>
+        <link>http://localhost:4000/graduation</link>
+        <pubDate>Mon, 01 Apr 2019 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;I finished my PhD in Geophysics at Tohoku University and moved to ERI (University of Tokyo) from April 2019 as a Research Fellow.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Lapse-time dependence of dv/v in response to tides</title>
+        <link>http://localhost:4000/array-izuoshima</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Takano, T., T. Nishimura, H. Nakahara, E. Fujita, and H. Ueda (2019), Sensitivity of seismic velocity changes to the tidal strain at different lapse-times: Data analyses of a small seismic array at Izu-Oshima volcano, J. Geophys. Res. Solid Earth, 124, https://doi.org/10.1029/2018JB016235. &lt;a href=&quot;/papers/Takano+2019.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We investigate seismic velocity changes in response to the tidal strain at Izu-Oshima volcano, Japan, by analyzing the data of permanent seismic stations and a small seismic array to evaluate the characteristics of strain sensitivity of velocity changes. We estimate the seismic velocity changes by phase differences between cross-correlations functions of ambient noises at the frequency of 2-4 Hz stacked for time periods with different tidal strain amplitudes. The seismic velocity changes decrease and increase during dilatation and contraction periods, respectively, when analyzing the cross-correlations functions at early lapse-times ranging from 2 to 7 s. However, we find that strain sensitivity of the seismic velocity changes decreases when analyzing the cross-correlation functions at later lapse-times from 7 to 35 s. Applying an array analysis to the cross-correlation functions, we observe apparent velocities of about 1 km/s at the early lapse-times and those of higher than 1 km/s at the late lapse-times. Since the group velocity of Rayleigh waves is 1.1 km/s at Izu-Oshima volcano, the apparent velocities at the late lapse-times may indicate the scattered or reflected body waves incident from a deeper region. Decrease of strain sensitivity with the lapse times therefore results from the emergence of body waves on the late lapse-times. These results highlight the need to pay attention to wave types of cross correlation functions and their paths to interpret seismic velocity changes.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>a moth that looks like a brown leaf</title>
+        <link>http://localhost:4000/bug</link>
+        <pubDate>Sat, 20 Oct 2018 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;I found a moth that looks like a brown leaf in front of my appartment in Japan.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/photo/Moth1.jpg&quot; target=&quot;_blank&quot;&gt;Photo1&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/photo/Moth2.jpg&quot; target=&quot;_blank&quot;&gt;Photo2&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>EGU・dv/v in response to different direction of tidal strain</title>
+        <link>http://localhost:4000/egu2018</link>
+        <pubDate>Sun, 08 Apr 2018 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;During the EGU General Assembly 2018, I presented a work on characteristics of strain sensitivity of seismic velocity changes.&lt;/p&gt;
+
+&lt;p&gt;In particular I talked about the seismic velocity changes in response to different direction of tidal strain by using ambient noise recorded at active volcanoes in Japan.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meetingorganizer.copernicus.org/EGU2018/EGU2018-12501.pdf&quot; target=&quot;_blank&quot;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Visiting student at ISTerre (Grenoble University)</title>
+        <link>http://localhost:4000/grenoble</link>
+        <pubDate>Sun, 01 Apr 2018 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;I stayed at ISTerre in Grenoble university from 2018/4/1-2018/10/3. I worked on velocity changes of ballistic waves by using Large N arrays on Piton de la Fournaise with Prof. Florent Brenguier and Prof. Michel Campillo.&lt;/p&gt;
+
+</description>
+      </item>
+    
+      <item>
+        <title>AGU・dvv/v caused by the tidal strain at Izu-Oshima</title>
+        <link>http://localhost:4000/agu2017</link>
+        <pubDate>Mon, 11 Dec 2017 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;During the AGU Fall Meeting 2017, I presented a work on characteristics of strain sensitivity of seismic velocity changes.&lt;/p&gt;
+
+&lt;p&gt;I talked about the seismic velocity changes in response to tidal strains at different lapse-times. In the presentation, I discussed the observed velocity changes with the wave properties of Green’s function by applying an array analysis to cross-correlation functions of ambient noise.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/270586&quot; target=&quot;_blank&quot;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>SSJ・dvv/v caused by the tidal strain at Izu-Oshima</title>
+        <link>http://localhost:4000/ssj2017</link>
+        <pubDate>Wed, 25 Oct 2017 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;During the SSJ Meeting 2017 in Kagoshima, I presented a work on characteristics of strain sensitivity of seismic velocity changes.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>VSJ・velocity changes caused by tidal strain using a small array.</title>
+        <link>http://localhost:4000/vsj</link>
+        <pubDate>Thu, 21 Sep 2017 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;p&gt;During the VSJ Meeting 2017 in Kumamoto, I presented a work on characteristics of strain sensitivity of seismic velocity changes.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Depth dependence of dv/v related with volcano deformation</title>
+        <link>http://localhost:4000/dvv-izuoshima</link>
+        <pubDate>Thu, 17 Aug 2017 00:00:00 +0900</pubDate>
+        <author>Tomoya Takano</author>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Takano, T., T. Nishimura, and H. Nakahara (2017), Seismic velocity changes concentrated at the shallow structure as inferred from correlation analyses of ambient noise during volcano deformation at Izu‐Oshima, Japan, J. Geophys. Res. Solid Earth, 122, 6721-6736, doi: 10.1002/2017JB014340. &lt;a href=&quot;/papers/Takano+2017.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We investigate the depth dependent characteristics of stress sensitivity of velocity changes at Izu‐Oshima in Japan by noise correlations. We calculate cross correlation functions of ambient noises recorded by four seismic stations on the active volcano for four years at different frequency bands. The daily velocity changes vary from −1% to 3% with a dominant period of about 1 year. It is evident that the velocity changes are well correlated with the areal strain changes whose linear trend is removed. The stress sensitivity of velocity changes, which are obtained from the observed velocity changes and areal strains, is lower at 0.5-1 Hz than that at higher frequencies. Modeling the velocity changes of Rayleigh wave propagating in layered structures, we find that the observed velocity changes are concentrated in the upper 1 km of the structure. Since similar frequency dependency is recognized among the stress sensitivity of velocity changes reported in previous studies, we conclude that the velocity changes are localized in the shallow depth because of the increase of confining pressure.&lt;/p&gt;
+</description>
+      </item>
+    
+
+  </channel>
+</rss>
