@@ -12,7 +12,7 @@ My research focuses on understanding the spatiotemporal changes of the Earth's s
 
 My study about the seismic velocity variations related to the volcanic deformation during quiet volcanic activities can be found in the [EOS Spotlight](https://eos.org/research-spotlights/quiet-volcanic-activity-changes-speed-of-ambient-seismic-waves){:target="_blank"}.
 
-私の研究は、地震の波を使って地球内部構造の微小な時間変化を調べることです。特に「荷重された応力や歪みに対して地殻がどのように応答するのか」ということに興味を持って研究しています。地球潮汐や火山性地殻変動、環境変動（降雨や気温変化）等で生じるわずかな地震波速度の時間変化から、地殻の過渡応答特性を調べています。
+私は、地震の波を使って地球内部構造の微小な時間変化を調べています。特に「荷重された応力や歪みに対して地殻がどのように応答するのか」ということに興味を持って研究しています。地球潮汐や火山性地殻変動、環境変動（降雨や気温変化）等で生じるわずかな地震波速度の時間変化から、地殻の過渡応答特性を調べています。
 
 <div class="social-media-list-wrapper">
 <ul class="social-media-list">
