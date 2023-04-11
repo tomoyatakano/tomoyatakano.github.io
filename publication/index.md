@@ -4,9 +4,9 @@ title: First-authored papers
 ---
 
 
-**Takano, T.** and K. Nishida, 2023, Tidal response of seismic wave velocity at shallow crust in Japan, submitted to *Geophysical Research Letters*
+**Takano, T.** and K. Nishida, 2023, Tidal response of seismic wave velocity at shallow crust in Japan, *Geophysical Research Letters*, in press.
 
-**Takano, T.**, T. Nishimura, and H. Nakahra, 2023, Anisotropic seismic velocity variations in response to different orientations of tidal deformations, in prep.
+**Takano, T.**, T. Nishimura, and H. Nakahra, 2023, Anisotropic seismic velocity variations in response to different orientations of tidal deformations, submitted to *Geophysical Journal International*.
 
 **Takano, T.**, F. Brenguier, M. Campillo, A. Peltier, and T. Nishimura, 2020, Noise-based passive ballistic wave seismic monitoring on an active volcano, *Geophysical Journal International*, 220, 501-507, https://doi.org/10.1093/gji/ggz466. [[PDF]](/papers/Takano+2020.pdf)
 
