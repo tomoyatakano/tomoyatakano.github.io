@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tomoya Takano (髙野 智也)
-description: about Tomoya Takano（髙野智也, Geophysics, Seismology, Volcanology)
+title: Tomoya Takano (高野 智也)
+description: about Tomoya Takano（高野智也, Geophysics, Seismology, Volcanology)
 ---
 
 Assistant Professor, Graduate School of Science and Technology, Hirosaki University   
@@ -47,15 +47,6 @@ My study about the seismic velocity variations related to the volcanic deformati
 				<a href="https://scholar.google.co.jp/citations?user={{ site.googlescholar_username }}&hl=en" target="_blank">
 
       			   <i class="ai ai-google-scholar ai-lg"></i>
-			   </a>
-  	        </li>
-	{% endif %}
-
-	{% if site.github_username %}
-  		<li>
-				<a href="https://github.com/{{ site.github_username }}" target="_blank">
-
-      			   <i class="ai ai-github ai-lg"></i>
 			   </a>
   	        </li>
 	{% endif %}
