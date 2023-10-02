@@ -3,11 +3,11 @@ layout: page
 title: Peer-Reviewed Articles
 ---
 
+**Takano, T.**, Nishimura, T., and Nakahra, H. (in press). Anisotropic seismic velocity variations in response to different orientations of tidal deformations, *Geophysical Journal International*.
+
 天坂登宇伊・前田拓人・**髙野智也** (2023). 深発地震の地震波動伝播シミュレーションに基づく北海道下マントルウェッジの内部減衰構造, 地震2, 76, 93-107, doi:10.4294/zisin.2022-19.
 
 寶川瑠璃・前田拓人・**髙野智也**・野口科子 (2023). コーダ波振幅に基づく青森県周辺の複数観測網におけるサイト増幅特性空間分布の推定, 地震2, 76, 77-92, doi:10.4294/zisin.2022-18.
-
-**Takano, T.**, Nishimura, T., and Nakahra, H. (in press). Anisotropic seismic velocity variations in response to different orientations of tidal deformations, *Geophysical Journal International*.
 
 **Takano, T.** and Nishida, K. (2023). Tidal response of seismic wave velocity at shallow crust in Japan, *Geophysical Research Letters*, *50*(9), e2023GL103011. [[PDF]](/papers/TakanoNishida2023.pdf)
 
