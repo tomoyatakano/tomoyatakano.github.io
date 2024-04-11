@@ -8,6 +8,9 @@ Chief Researcher,
 National Research Institute for Earth Science and Disaster Resilience (NIED)   
 takanot@bosai.go.jp
 
+火山防災研究部門　主任研究員,   
+国立研究開発法人 防災科学技術研究所
+
 ###  Research interests
 My research focuses on understanding the spatiotemporal changes of the Earth's structure using seismic waves. I'm particularly interested in a complex response of geomaterials to hydrological changes, volcanic activities, earthquake shaking, and static stress or strain variations. I have been involved in extracting the crustal response to applied static strain using ambient seismic noise and earth tides. 
 
