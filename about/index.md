@@ -57,6 +57,15 @@ My study about the seismic velocity variations related to the volcanic deformati
 			   </a>
   	        </li>
 	{% endif %}
+
+	{% if site.github_username %}
+  		<li>
+				<a href="https://github.com/{{ site.github_username }}&hl=en" target="_blank">
+
+      			   <i class="ai ai-github ai-lg"></i>
+			   </a>
+  	        </li>
+	{% endif %}
 	
      </ul>
 </div>
