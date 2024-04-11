@@ -3,7 +3,7 @@ layout: page
 title: Peer-Reviewed Articles
 ---
 
-**Takano, T.**, Nishimura, T., & Nakahara, H. (2023). Anisotropic seismic velocity variations in response to different orientations of tidal deformations. Geophysical Journal International, ggad386. 
+**Takano, T.**, Nishimura, T., & Nakahara, H. (2023). Anisotropic seismic velocity variations in response to different orientations of tidal deformations. Geophysical Journal International, 235(3), 2716-2726, https://doi.org/10.1093/gji/ggad386
 
 天坂登宇伊・前田拓人・**髙野智也** (2023). 深発地震の地震波動伝播シミュレーションに基づく北海道下マントルウェッジの内部減衰構造, 地震2, 76, 93-107, doi:10.4294/zisin.2022-19.
 
