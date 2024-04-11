@@ -4,7 +4,8 @@ title: Tomoya Takano (高野 智也)
 description: about Tomoya Takano（高野智也, Geophysics, Seismology, Volcanology)
 ---
 
-Chief Researcher, National Research Institute for Earth Science and Disaster Resilience (NIED)   
+Chief Researcher,   
+National Research Institute for Earth Science and Disaster Resilience (NIED)   
 takanot@bosai.go.jp
 
 ###  Research interests
