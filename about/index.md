@@ -60,8 +60,8 @@ My study about the seismic velocity variations related to the volcanic deformati
 
 	{% if site.github_username %}
   		<li>
-				<a href="https://github.com/{{ site.github_username }}&hl=en" target="_blank">
-				
+				<a href="https://github.com/{{ site.github_username }}" target="_blank">
+
       			   <i class="fa-brands fa-github"></i>
 			   </a>
   	        </li>
