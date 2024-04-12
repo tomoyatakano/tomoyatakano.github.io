@@ -21,6 +21,7 @@ My study about the seismic velocity variations related to the volcanic deformati
 
 また，既知の入力として高精度に計算できる地球潮汐による地震波速度変化の解析を通して，「荷重された応力に対して地殻がどのように応答するのか」という構造時間変化のメカニズムの解明も目指しています．
 
+
 <div class="social-media-list-wrapper">
 <ul class="social-media-list">
 {% if site.email_username %}
