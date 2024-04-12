@@ -9,7 +9,7 @@ title: Peer-Reviewed Articles
 
 寶川瑠璃・前田拓人・**髙野智也**・野口科子 (2023). コーダ波振幅に基づく青森県周辺の複数観測網におけるサイト増幅特性空間分布の推定, 地震2, 76, 77-92, doi:10.4294/zisin.2022-18.
 
-**Takano, T.** and Nishida, K. (2023). Tidal response of seismic wave velocity at shallow crust in Japan, *Geophysical Research Letters*, *50*(9), e2023GL103011. [https://doi.org/10.1029/2023GL103011]{https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL103011}{:target="_blank"}
+**Takano, T.** and Nishida, K. (2023). Tidal response of seismic wave velocity at shallow crust in Japan, *Geophysical Research Letters*, *50*(9), e2023GL103011. [https://doi.org/10.1029/2023GL103011]{https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL103011}{:target="_blank"}    
 **Test code and dataset of tidal strain sensitivity are available on [github](https://github.com/tomoyatakano/Takano-Nishida2023){:target="_blank"}.**
 
 
