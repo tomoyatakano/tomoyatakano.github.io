@@ -9,7 +9,7 @@ title: Peer-Reviewed Articles
 
 寶川瑠璃・前田拓人・**髙野智也**・野口科子 (2023). コーダ波振幅に基づく青森県周辺の複数観測網におけるサイト増幅特性空間分布の推定, 地震2, 76, 77-92, doi:10.4294/zisin.2022-18.
 
-**Takano, T.** and Nishida, K. (2023). Tidal response of seismic wave velocity at shallow crust in Japan, *Geophysical Research Letters*, *50*(9), e2023GL103011. [https://doi.org/10.1029/2023GL103011]{https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL103011}{:target="_blank"}    
+**Takano, T.** and Nishida, K. (2023). Tidal response of seismic wave velocity at shallow crust in Japan, *Geophysical Research Letters*, *50*(9), e2023GL103011. [https://doi.org/10.1029/2023GL103011](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL103011){:target="_blank"}    
 **Test code and dataset of tidal strain sensitivity are available on [github](https://github.com/tomoyatakano/Takano-Nishida2023){:target="_blank"}.**
 
 
@@ -21,5 +21,5 @@ Brenguier, F., Courbis, R.,  Mordret, A., Campman, X., Bou\'{e}, B., Chmiel, M.,
 
 **Takano, T.**, Nishimura, T., and Nakahara, H. (2017), Seismic velocity changes concentrated at the shallow structure as inferred from correlation analyses of ambient noise during volcano deformation at Izu-Oshima, Japan, *Journal of Geophysical Research: Solid Earth*, 122 (8), 6721--6736, [doi:10.1002/2017JB014340.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JB014340){:target="_blank"}. , highlighted by [EOS](https://eos.org/research-spotlights/quiet-volcanic-activity-changes-speed-of-ambient-seismic-waves){:target="_blank"}
 
-**Takano, T.**, Nishimura, T., Nakahara, H., Ohta, Y., and Tanaka, S. (2014), Seismic velocity changes caused by the earth tide: Ambient noise correlation analyses of small-array data,  *Geophysical Research Letters*, *41* (17), 6131-6136, [doi:10.1002/2014GL060690.]https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL060690){:target="_blank"}. 
+**Takano, T.**, Nishimura, T., Nakahara, H., Ohta, Y., and Tanaka, S. (2014), Seismic velocity changes caused by the earth tide: Ambient noise correlation analyses of small-array data,  *Geophysical Research Letters*, *41* (17), 6131-6136, [doi:10.1002/2014GL060690.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL060690){:target="_blank"}. 
 
