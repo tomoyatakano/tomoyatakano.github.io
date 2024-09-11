@@ -3,6 +3,9 @@ layout: page
 title: Peer-Reviewed Articles
 ---
 
+**Takano, T.** and Nishida, K. (2024). Estimation of seismometer clock time offsets using Kalman Filter toward accurate seismic velocity change, Geophysical Journal International, ggae322, [https://doi.org/10.1093/gji/ggae322](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae322/7754188?searchresult=1&login=false){:target="_blank"}
+
+
 **Takano, T.**, Nishimura, T., & Nakahara, H. (2023). Anisotropic seismic velocity variations in response to different orientations of tidal deformations. Geophysical Journal International, 235(3), 2716-2726, [https://doi.org/10.1093/gji/ggad386](https://academic.oup.com/gji/article/235/3/2716/7288685){:target="_blank"}
 
 天坂登宇伊・前田拓人・**髙野智也** (2023). 深発地震の地震波動伝播シミュレーションに基づく北海道下マントルウェッジの内部減衰構造, 地震2, 76, 93-107, doi:10.4294/zisin.2022-19.
