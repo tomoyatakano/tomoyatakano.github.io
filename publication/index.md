@@ -3,6 +3,8 @@ layout: page
 title: Peer-Reviewed Articles
 ---
 
+**Takano, T.** and Poli, P. (2024). Coherence-based characterization of a long-period monochromatic seismic signal, *Geophysical Research Letters*, in pres.
+
 **Takano, T.** and Nishida, K. (2024). Estimation of seismometer clock time offsets using Kalman Filter toward accurate seismic velocity change, Geophysical Journal International, ggae322, [https://doi.org/10.1093/gji/ggae322](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae322/7754188?searchresult=1&login=false){:target="_blank"}
 
 
