@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Favorites in 2022
+title: my favorites in 2022
 type: misc
 ---
 - Billy Woods: Aethiopes
