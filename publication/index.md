@@ -4,6 +4,8 @@ title: Peer-Reviewed Articles
 ---
 
 **Takano, T.** and Poli, P. (2025). Coherence-based characterization of a long-period monochromatic seismic signal, Geophysical Research Letters, 52, e2024GL113290. [https://doi.org/10.1029/2024GL113290](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL113290){:target="_blank"}
+**Catalogs of events which we have detected in the Gulf of Guinea, Vanuatu, and the Canadian arctic region are available at [Zenodo](https://zenodo.org/records/14402696){:target="_blank"}.**
+
 
 **Takano, T.** and Nishida, K. (2024). Estimation of seismometer clock time offsets using Kalman Filter toward accurate seismic velocity change, Geophysical Journal International, ggae322, [https://doi.org/10.1093/gji/ggae322](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae322/7754188?searchresult=1&login=false){:target="_blank"}
 
