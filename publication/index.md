@@ -4,7 +4,7 @@ title: Peer-Reviewed Articles
 ---
 
 **Takano, T.** and Poli, P. (2025). Coherence-based characterization of a long-period monochromatic seismic signal, Geophysical Research Letters, 52, e2024GL113290. [https://doi.org/10.1029/2024GL113290](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL113290){:target="_blank"}      
-**Catalogs of events which we have detected in the Gulf of Guinea, Vanuatu, and the Canadian arctic region are available at [Zenodo](https://zenodo.org/records/14402696){:target="_blank"}.**
+- **Catalogs of events which we have detected in the Gulf of Guinea, Vanuatu, and the Canadian arctic region are available at [Zenodo](https://zenodo.org/records/14402696){:target="_blank"}.**
 
 
 **Takano, T.** and Nishida, K. (2024). Estimation of seismometer clock time offsets using Kalman Filter toward accurate seismic velocity change, Geophysical Journal International, ggae322, [https://doi.org/10.1093/gji/ggae322](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae322/7754188?searchresult=1&login=false){:target="_blank"}
@@ -17,7 +17,7 @@ title: Peer-Reviewed Articles
 寶川瑠璃・前田拓人・**髙野智也**・野口科子 (2023). コーダ波振幅に基づく青森県周辺の複数観測網におけるサイト増幅特性空間分布の推定, 地震2, 76, 77-92, doi:10.4294/zisin.2022-18.
 
 **Takano, T.** and Nishida, K. (2023). Tidal response of seismic wave velocity at shallow crust in Japan, *Geophysical Research Letters*, *50*(9), e2023GL103011. [https://doi.org/10.1029/2023GL103011](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL103011){:target="_blank"}    
-**Test code and dataset of tidal strain sensitivity are available on [github](https://github.com/tomoyatakano/Takano-Nishida2023){:target="_blank"}.**
+- **Test code and dataset of tidal strain sensitivity are available on [github](https://github.com/tomoyatakano/Takano-Nishida2023){:target="_blank"}.**
 
 
 Brenguier, F., Courbis, R.,  Mordret, A., Campman, X., Bou\'{e}, B., Chmiel, M., **Takano, T.**, Lecocq, T., Van der Veen, W., Postif,S., and Hollis, D. (2019). Noise-based Ballistic Body-wave Passive Seismic Monitoring, *Geophysical Journal International*, Volume 221, Issue 1, April 2020, Pages 683–691, [https://doi.org/10.1093/gji/ggz440](https://academic.oup.com/gji/article/221/1/683/5707407){:target="_blank"}
